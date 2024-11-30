@@ -1,0 +1,111 @@
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.exe
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.deps.json
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.json
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.dev.json
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.dll
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\DataGrid.pdb
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.csproj.AssemblyReference.cache
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\App.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\App.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid_MarkupCompile.cache
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.g.resources
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfoInputs.cache
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfo.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.csproj.CoreCompileInputs.cache
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.csproj.Up2Date
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.dll
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.pdb
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\DataGrid.genruntimeconfig.cache
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\consultation.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\rapport.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\rendez-vous.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\stock.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\utilisateur.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\consultation.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\rapport.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\rendez-vous.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\stock.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\utilisateur.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\dashboard.baml
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\obj\Debug\netcoreapp3.1\dashboard.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\LiveCharts.dll
+D:\New folder\WPF-DataTable-Dashboard-master\WPF-DataTable-Dashboard-master\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.exe
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.deps.json
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.json
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.dev.json
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\DataGrid.pdb
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\LiveCharts.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.csproj.AssemblyReference.cache
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\consultation.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\dashboard.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\rapport.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\rendez-vous.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\stock.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\utilisateur.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\App.baml
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\consultation.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\dashboard.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\rapport.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\rendez-vous.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\stock.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\utilisateur.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\App.g.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid_MarkupCompile.cache
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.g.resources
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfoInputs.cache
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfo.cs
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.csproj.CoreCompileInputs.cache
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.csproj.Up2Date
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.dll
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.pdb
+D:\New folder\WPF-DataTable-Dashboard-master\ayoub\obj\Debug\netcoreapp3.1\DataGrid.genruntimeconfig.cache
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.exe
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.deps.json
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.json
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.runtimeconfig.dev.json
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.dll
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\DataGrid.pdb
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\LiveCharts.dll
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Core.dll
+D:\CycleInfoA1\ayoub_amal\bin\Debug\netcoreapp3.1\MahApps.Metro.IconPacks.Material.dll
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.csproj.AssemblyReference.cache
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\consultation.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\dashboard.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\rapport.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\rendez-vous.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\stock.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\utilisateur.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\App.baml
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\consultation.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\dashboard.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\rapport.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\rendez-vous.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\stock.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\utilisateur.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\App.g.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid_MarkupCompile.cache
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.g.resources
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfoInputs.cache
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfo.cs
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.csproj.CoreCompileInputs.cache
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.csproj.Up2Date
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.dll
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.pdb
+D:\CycleInfoA1\ayoub_amal\obj\Debug\netcoreapp3.1\DataGrid.genruntimeconfig.cache

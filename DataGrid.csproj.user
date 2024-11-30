@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Page Update="consultation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="dashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="rapport.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="rendez-vous.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="stock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="utilisateur.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
